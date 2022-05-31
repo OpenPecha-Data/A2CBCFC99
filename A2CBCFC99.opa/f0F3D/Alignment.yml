@@ -1,0 +1,30 @@
+segment_sources:
+  I98B9EA2A:
+    type: origin_type
+    relation: translation
+    language: en
+  IB445E860:
+    type: origin_type
+    relation: translation
+    language: fr
+  I2DDFC2AF:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  98c7da488730445baeb56d7da5329514:
+    I98B9EA2A: ae839bc3352448fe976563e2a959af7e
+    IB445E860: 96bab3123d394aab8ef9974daf64ec8d
+    I2DDFC2AF: 026aa00889f646d18670985528d1e6b4
+  8a3fc38424fe455b82ce0739abf04bb0:
+    I98B9EA2A: 8b20cfe1ee5e4f7fa5324970ee7abc5b
+    IB445E860: fae1440c771b4d92b8c3cdb3514b2438
+    I2DDFC2AF: d29428f7ea4b4d558d587e0d35537336
+  8ce5cc1cff0b45a6b0cef17eefc8b7a4:
+    I98B9EA2A: b733d8952ddb4764ad4b7a236d6e6ddc
+    IB445E860: c68f33dbda964cf7b7bde25918a7f6d2
+    I2DDFC2AF: 9450ffd6aa724efe9a4e2a5e6e9618ce
+  807bc64af6484f5facf6b9d5e5ab9c6b:
+    I98B9EA2A: 673fbce6d6cf4fef952a1bcbd8695382
+    IB445E860: b80b0f9320d94b4c8a930e500a06372e
+    I2DDFC2AF: 06f75c0d29f34ff9a1d2d8f755ab6796
